@@ -5,6 +5,7 @@
 ```
    · On the Apple App Store (for iOS): Download Expo Go
    · On the Google Play Store (for Android): Download Expo Go
+   · Register on Expo Go
 ```
 2. Open the Project Link:
 ```
@@ -14,8 +15,8 @@
 3. Launch with Expo Go:
 ```
    · Your browser will show a QR code.
-   · Open the Expo Go app on your phone and tap the "Scan QR Code" option.
-   · Scan the QR code shown in your browser.
+   · Scan QR Code for your photo camera.
+   · Poke to open the help with Expo Go
    · The app will automatically start building and running the project. Wait for the process to complete.
 ```
 **⬇⬇⬇Technology Stack⬇⬇⬇**
