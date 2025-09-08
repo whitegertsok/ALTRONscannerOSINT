@@ -10,7 +10,7 @@
 2. Open the Project Link:
 ```
    · On your mobile device, tap the link below to open it in your browser:
-   · Project URL: https://rork.app/?exp=nsqef1a-anonymous-8081.exp.direct&p=98mtfw0k5bkuxj6tlxqa9&app=false
+   · Project URL: https://clck.ru/3P7DBf
 ```
 3. Launch with Expo Go:
 ```
