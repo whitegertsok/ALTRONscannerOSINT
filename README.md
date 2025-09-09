@@ -9,10 +9,6 @@
 ```
 
 2. Open the Project Link:
-```
-On your mobile device, tap the link below to open it in your browser: 
-```
-Project QR Scan URL:
 https://radikal.cloud/i/IMG-4173.edTlH3
 
 3. Launch with Expo Go:
