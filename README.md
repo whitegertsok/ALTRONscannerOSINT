@@ -10,7 +10,7 @@
 2. Open the Project Link:
 ```
    · On your mobile device, tap the link below to open it in your browser:
-   · Project URL: https://clck.ru/3P7DBf
+   · Project QR Scan URL: https://i.postimg.cc/LXcsVdrS/photo-5332535505730008624-y.jpg
 ```
 3. Launch with Expo Go:
 ```
