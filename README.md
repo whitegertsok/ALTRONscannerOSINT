@@ -3,8 +3,8 @@
 ### **🚀How install and use?**
 1. Download Expo Go and register there:
 ```
-· On the Apple App Store (for iOS): Download Expo Go
-· On the Google Play Store (for Android): Download Expo Go
+· On the Apple App Store - Download Expo Go
+· On the Google Play Store - Download Expo Go
 · Register on Expo Go
 ```
 
