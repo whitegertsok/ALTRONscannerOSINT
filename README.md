@@ -15,7 +15,7 @@ https://radikal.cloud/i/IMG-4173.edTlH3
 
 · Your browser will show a QR code.
 · Scan QR Code for your photo camera.
-· Poke to open the help with Expo Go
+· Type to open app with Expo Go
 · The app will automatically start building and running the project. Wait for the process to complete.
 
 **⬇⬇⬇Technology Stack⬇⬇⬇**
