@@ -13,10 +13,10 @@ https://radikal.cloud/i/IMG-4173.edTlH3
 
 3. Launch with Expo Go:
 
-· Your browser will show a QR code.
-· Scan QR Code for your photo camera.
-· Type to open app with Expo Go
-· The app will automatically start building and running the project. Wait for the process to complete.
+◼ Your browser will show a QR code.
+◼ Scan QR Code for your photo camera.
+◼ Type to open app with Expo Go
+◼ The app will automatically start building and running the project. ◼ Wait for the process to complete.
 
 **⬇⬇⬇Technology Stack⬇⬇⬇**
 ```
