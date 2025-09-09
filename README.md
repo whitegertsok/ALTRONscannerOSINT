@@ -11,7 +11,7 @@
 ```
    · On your mobile device, tap the link below to open it in your browser: 
 ```
-   Project QR Scan URL: https://i.postimg.cc/LXcsVdrS/photo-5332535505730008624-y.jpg
+   Project QR Scan URL: https://i.postimg.cc/gc4zJZ0d/IMG-4173.jpg
 
 3. Launch with Expo Go:
 ```
