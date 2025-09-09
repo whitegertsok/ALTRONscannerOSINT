@@ -42,5 +42,5 @@ https://radikal.cloud/i/IMG-4173.edTlH3
   · Email Intelligense Scanner
 ```
 
-You're In!
+You here!
 The ALTRON Web OSINT Scanner app will now be running on your device through Expo Go. Let`s try! Web OSINT :)
