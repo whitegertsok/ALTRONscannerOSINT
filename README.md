@@ -1,21 +1,21 @@
 # ALTRON - Web OSINT Scanner app
 
 ### **🚀How install and use?**
-1. Download Expo Go and register there:
+1. Download Rork and register there:
 ```
-· On the Apple App Store - Download Expo Go
-· On the Google Play Store - Download Expo Go
-· Register on Expo Go
+· On the Apple App Store - Download Rork
+· On the Google Play Store - Download Rork
+· Register on Rork
 ```
 
 2. Open the Project Link:
-https://radikal.cloud/i/IMG-4173.edTlH3
+https://radikal.cloud/i/5341539835946594705.JJN7dO
 
-3. Launch with Expo Go:
+3. Launch with Rork:
 
 ◼ Your browser will show a QR code.
 ◼ Scan QR Code for your photo camera.
-◼ Type to open app with Expo Go
+◼ Type to open app with Rork
 ◼ The app will automatically start building and running the project. ◼ Wait for the process to complete.
 
 **⬇⬇⬇Technology Stack⬇⬇⬇**
