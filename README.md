@@ -40,4 +40,4 @@ https://radikal.cloud/i/5341539835946594705.JJN7dO
 ```
 
 You here!
-The ALTRON Web OSINT Scanner app will now be running on your device through Rork. Let`s try! Web OSINT :)
+The ALTRON Web OSINT Scanner app will now be running on your device through Rork. Let`s try for mobile! Web OSINT :)
