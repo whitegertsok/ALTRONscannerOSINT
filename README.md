@@ -28,7 +28,6 @@ https://radikal.cloud/i/5341539835946594705.JJN7dO
   · CORS Tester
   · Server Info Check
   · DNS Lookup
-  · WHOIS Lookup
   · Robots.txt Check
   · Git Exposure Check
   · Backup Files Check
