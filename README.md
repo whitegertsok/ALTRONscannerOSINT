@@ -1,7 +1,7 @@
-# ALTRON - Web OSINT Scanner app
+### **ALTRON - Web OSINT Scanner app** ###
 It doesn't work with less than 95 megabits per second (home router speed, not mobile internet)
 
-### **🚀How install and use?**
+# **🚀How install and use?** #
 1. Download Rork and register there:
 ```
 · On the Apple App Store - Download Rork
