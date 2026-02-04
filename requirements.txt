@@ -1,0 +1,9 @@
+Flask==3.0.0
+requests==2.31.0
+python-whois==0.9.4
+dnspython==2.4.2
+beautifulsoup4==4.12.2
+urllib3==2.1.0
+
+# --- SYSTEM REQUIREMENTS (Install separately) ---
+# gobuster (apt install gobuster) - Required for advanced subdomain scanning

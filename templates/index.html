@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>ALTRON Security</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;700&family=Orbitron:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css?v=999999">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-logo-container">
+                <img src="/static/img/logo.png" alt="ALTRON Logo" class="app-logo">
+                <div class="header-text">
+                    <h1 class="glitch">ALTRON</h1>
+                    <p class="subtitle-secondary">WEB OSINT SCANNER</p>
+                </div>
+            </div>
+        </header>
+
+        <main class="tools-grid" id="toolsGrid">
+            <!-- Tools injected by JS -->
+        </main>
+
+        <!-- Modal -->
+        <div id="resultModal" class="modal hidden">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modalTitle">TOOL NAME</h2>
+                    <button id="closeModal" class="close-btn">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <!-- Input Section -->
+                    <div id="modalInputSection">
+                        <p class="instruction">ENTER TARGET URL OR IP:</p>
+                        <div class="input-group">
+                            <input type="text" id="modalTargetInput" placeholder="example.com or domain"
+                                autocomplete="off" maxlength="500" required>
+                            <button id="modalRunBtn" class="cyber-btn">INITIATE SCAN</button>
+                        </div>
+                    </div>
+
+                    <!-- Loader Section -->
+                    <div id="modalLoader" class="hidden">
+                        <div class="spinner"></div>
+                        <p class="loader-text">SCANNING TARGET...</p>
+                    </div>
+
+                    <!-- Results Section -->
+                    <div id="modalResult" class="hidden"></div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>CREATED BY <a href="https://github.com/whitegertsok">@WHITEGERTSOK</a></p>
+        </footer>
+    </div>
+    <script src="/static/js/main.js?v=2025112503"></script>
+</body>
+
+</html>
