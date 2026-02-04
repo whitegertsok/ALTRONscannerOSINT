@@ -9,6 +9,7 @@ Powerful all-in-one security scanner to test your infrastructure.
 git clone https://github.com/whitegertsok/ALTRONscannerOSINT.git
 cd ALTRONscannerOSINT
 pip3 install -r requirements.txt
+sudo apt install -y gobuster
 # 2. Launch
 python3 app.py
 # 3. Open in browser
