@@ -20,7 +20,7 @@ python3 app.py
 
 Port Scanning: 1000 ports in < 30 seconds
 
-Subdomain Discovery: 5000+ subdomains per minute
+Subdomain Discovery: 500+ subdomains per minute
 
 Concurrent Scans: Support for 10+ simultaneous operations
 
